@@ -1,0 +1,19 @@
+LS
+
+Section1
+
+Challenge 1:
+Challenge 2: DNE
+Challenge 3: Level 1 -> flag is "flag{th3_3a5iest_1ev3l}" 
+			 Level 2 -> flag is "flag{}"
+			 Level 3 -> flag is "flag{}"
+
+Section 2
+
+Challenge 1: bruteforcer -> password is "penniless", flag is "flag{b1n42y_s3r2ch_f7w}"
+Challenge 2: notwordle -> password is "pr377y_5u23_7h15_15_n07_w0rd13", flag is "flag{pr377y_5u23_7h15_15_n07_w0rd13}"
+Challenge 3: tictactoe -> flag is "flag{4r3_y0u_r3411y_hum4n??}"
+
+Project 1
+
+
